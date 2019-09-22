@@ -4,7 +4,7 @@ layout: home
 permalink: /index
 ---
 
-!(Expropriaremos nosso futuro)[/index_assets/Expropriaremos nosso futuro.png]
+![Expropriaremos nosso futuro](/index_assets/Expropriaremos nosso futuro.png)
 
 
 # Ｄｏｃｔｒｉｎａｔｉｏｎｗａｖｅ
