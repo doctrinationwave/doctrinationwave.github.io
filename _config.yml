@@ -10,7 +10,5 @@
 
 #style: light # dark (default) or light
 
-theme: jekyll-theme-console
-
 plugins:
   - jekyll-seo-tag
