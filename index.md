@@ -1,9 +1,14 @@
 ---
-title: /
+title: /index
 layout: home
-permalink: /
+permalink: /index
 ---
 
-# Lorem ipsum
+# Ｄｏｃｔｒｉｎａｔｉｏｎｗａｖｅ
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+DOCTRINATIONWAVE é um projeto de arte vaporwave comunista. Expropriaremos a Ａｅｓｔｅｔｉｃａ em prol da construção do comunismo e da libertação da humanidade.
+
+~ Ｏｌａｖｏ ｎｏｓ ｏｄｅｉａ~
+
+[Continuação espiritual do projeto ＦＵＭＥＷＡＶＥ(¹⁹⁹¹)]
+
