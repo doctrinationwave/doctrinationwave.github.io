@@ -4,9 +4,8 @@ layout: home
 permalink: /index
 ---
 
-<p align="center">
-  <img width="800" height="350" src="https://doctrinationwave.github.io/index_assets/Expropriaremos nosso futuro.png">
-</p>
+!(Expropriaremos nosso futuro)[index_assets/Expropriaremos nosso futuro.png]
+
 
 # Ｄｏｃｔｒｉｎａｔｉｏｎｗａｖｅ
 
