@@ -4,13 +4,15 @@ layout: home
 permalink: /index
 ---
 
-![Expropriaremos nosso futuro](/index_assets/Expropriaremos nosso futuro.png)
+<p align="center">
+  <img width="800" height="350" src="https://doctrinationwave.github.io/index_assets/Expropriaremos nosso futuro.png">
+</p>
 
 # Ｄｏｃｔｒｉｎａｔｉｏｎｗａｖｅ
 
-DOCTRINATIONWAVE é um projeto de arte vaporwave comunista. Expropriaremos a Ａｅｓｔｅｔｉｃａ em prol da construção do comunismo e da libertação da humanidade.
+DOCTRINATIONWAVE é um projeto de arte vaporwave comunista. Expropriaremos a Ａｅｓｔｅｔｉｃａ em prol da construção do comunismo e da libertação da humanidade. Para entender mais sobre, leia o [Sobre nós](/sobre.html).
 
-Este site é um repositório de guias, tutoriais, ensaios e textos avulsos do projeto, além de servir como depósito em alta definição das imagens feitas para o projeto.
+Este site é um repositório de guias, tutoriais, ensaios e textos avulsos do projeto, além de servir como um depósito em alta definição das artes que fizermos.
 
 Você nos encontra no:
 
