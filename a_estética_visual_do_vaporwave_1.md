@@ -9,17 +9,26 @@
 
 Podemos dizer que o vaporwave fez (ou está por fazer) uma década de vida.
 
+|
+
 Seu nascimento foi quase seu aborto - a estética audiovisual emergiu na mesma bagunça em que ergueram-se (e, em alguns casos, logo morreram) os famosos microgêneros e subculturas de 2010-2013: chillwave, seapunk, witch house, soft grunge, pastel goth, e muitos mais numa lista interminável de gêneros musicais, tendências de moda e estilos artísticos que brotaram das entranhas de diversas redes sociais - do Tumblr ao 4chan, do Soundcloud ao Bandcamp¹²³.
+
+|
 
 É comum ouvir vozes apontando uma "falsidade, fragilidade e marqueteirismo" desses _trends_ da Internet. Apesar de Ezra Marcus viver em uma caverna na qual não existem e-girls e e-boys fazendo imagens com golfinhos e anjos renascentistas no PicsArt¹, é impossível não se pegar pensando em como nossas músicas aestéticas são perfeitas para o algoritmo do Youtube.
 
+|
+
 Ou para fazer memes.
+
+|
 
 [colocar aqui imagem do lofi hip hop radio - beats to relax/study to )]
 
+|
+
 2. Explicar o objetivo do texto
   (Expor, da melhor forma possível, o que caracteriza a estética visual do vaporwave, o que não a caracteriza, e quais são as possibilidades implícitas em tudo isso).
-
 ### O que é uma imagem de vaporwave?
 
 1. A reconstrução do passado (nostalgia, ou "todo resgate é uma traição").
