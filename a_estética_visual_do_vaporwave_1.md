@@ -27,6 +27,7 @@ Ou para fazer memes.
 
 |
 
+Há sim uma indefinição desses "webmovimentos artísticos", e uma óbvia capitalização destes. 
 2. Explicar o objetivo do texto
   (Expor, da melhor forma possível, o que caracteriza a estética visual do vaporwave, o que não a caracteriza, e quais são as possibilidades implícitas em tudo isso).
 ### O que é uma imagem de vaporwave?
