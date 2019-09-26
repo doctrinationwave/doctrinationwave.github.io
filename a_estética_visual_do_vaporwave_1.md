@@ -1,9 +1,7 @@
 # A Estética Visual do Vaporwave #1
-## O que é, o que não é, e o que pode ser
+## O que é e o que não é vaporwave
 
 ### Uma década se passou (apenas em sua cabeça)
-
-1. Falar brevemente das origens do vaporwave e do seu estado atual
 
 ~ `O vaporwave está morto - longa vida ao vaporwave!`
 
@@ -23,11 +21,12 @@ Poderia-se dizer que um gênero bem-sucedido consegue o equilíbrio entre _ser d
 
 A outra razão, não tão dissociada da anterior, reside no que será o tema desta série de textos. O vaporwave possui um _etos estético_, e uma _linguagem visual_ mais ou menos coesa para representá-lo. Essa estética visual, além de respeitar o equilíbrio entre descrição e produção que descrevi anteriormente, permitiu unificar experimentações musicais diferentes, e até mesmo invadiu gêneros musicais (e visuais!) que não são vaporwave - o nosso conhecidíssimo fenômeno da  "aestética/aesthetic". Nesse sentido, a estética e a linguagem visual desse movimento artístico serviram como um "manifesto visual" da música vaporwave, sustentando ainda mais sua permanência na cultura, ao mesmo tempo que ganharam vida própria.
 
-2. Explicar o objetivo do texto
+### O objetivo da série (e deste primeiro texto)
 
-Trabalharemos nesta primeira parte da série o que é o vaporwave, a partir da descrição de quais valores, ideias e conceitos inspiram as suas produções artísticas (o seu _etos estético_), e como esse etos é representado visualmente (a sua _linguagem visual_). Descreveremos o estilo primeiro a partir de seu etos, apontando também para coisas que não lhe pertencem ou com as quais é confundido (como outros micromovimentos artísticos). Também mostraremos, de forma mais geral e abrangente, como esse etos se traduz visualmente.
+Trabalharemos nesta primeira parte da série o que é o vaporwave, a partir da descrição de quais valores, ideias e conceitos inspiram as suas produções artísticas (o seu _etos estético_), e como esse etos é representado visualmente (a sua _linguagem visual_). Junto à descrição de cada elemento da "filosofia" por trás do vaporwave, mostraremos de forma abrangente e cursória como isso se traduz nas imagens. Também falaremos do que _não_ é vaporwave, mas costuma ser confundido com.
 
-Nos futuros textos da série, aprofundaremos a descrição da linguagem visual do vaporwave, (Expor, da melhor forma possível, o que caracteriza a estética visual do vaporwave, o que não a caracteriza, e quais são as possibilidades implícitas em tudo isso). 
+Nos futuros textos da série, aprofundaremos a descrição da linguagem visual do vaporwave, mostrando elementos, técnicas, composições e temas comumente empregados; posteriormente, falaremos de exemplos de como escapar das ou expandir as convenções do esitlo. 
+
 ### O que é vaporwave
 
 1. A reconstrução do passado (nostalgia, ou "todo resgate é uma traição").
@@ -37,7 +36,7 @@ Nos futuros textos da série, aprofundaremos a descrição da linguagem visual d
 6. A geografia do capitalismo envelhecido e da Internet jovem (do Japão do City Pop aos EUA da World Wide Web).
 5. A embalagem que é seu próprio conteúdo, ou midiatividade (gata, você ficaria linda dentro de uma janela do MS Paint). 
 
-### O que não é o ethos do vaporwave
+### O que não é vaporwave
 
 1. O futuro-do-pretérito de 1980, 1970 ou décadas anteriores.
 2. A explicitação do nosso futuro.
