@@ -25,7 +25,7 @@ A outra razão, não tão dissociada da anterior, reside no que será o tema des
 
 Trabalharemos nesta primeira parte da série o que é o vaporwave, a partir da descrição de quais valores, ideias e conceitos inspiram as suas produções artísticas (o seu _etos estético_), e como esse etos é representado visualmente (a sua _linguagem visual_). Junto à descrição de cada elemento da "filosofia" por trás do vaporwave, mostraremos de forma abrangente e cursória como isso se traduz nas imagens. Também falaremos do que _não_ é vaporwave, mas costuma ser confundido com.
 
-Nos futuros textos da série, aprofundaremos a descrição da linguagem visual do vaporwave, mostrando elementos, técnicas, composições e temas comumente empregados; posteriormente, falaremos de exemplos de como escapar das ou expandir as convenções do esitlo. 
+Nos futuros textos da série, aprofundaremos a descrição da linguagem visual do vaporwave, mostrando elementos, técnicas, composições e temas comumente empregados; posteriormente, falaremos de exemplos de como escapar das ou expandir as convenções do estilo. 
 
 ### O que é vaporwave
 
