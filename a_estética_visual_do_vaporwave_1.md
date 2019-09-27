@@ -1,5 +1,8 @@
 # A Estética Visual do Vaporwave #1
-## O que é e o que não é vaporwave
+## O que é (e o que não é) vaporwave
+
+![ネコ h a b i t a t por u/codyvondell](/guiasetutoriais/esteticavisualvaporwave/1/a_estética_visual_do_vaporwave_1_assets/1.png)
+_[ネコ h a b i t a t por u/codyvondell](https://www.reddit.com/r/VaporwaveArt/comments/b86mnk/%E3%83%8D%E3%82%B3_h_a_b_i_t_a_t/)
 
 ### Uma década se passou (apenas em sua cabeça)
 
@@ -11,7 +14,7 @@ Seu nascimento foi quase seu aborto - a estética audiovisual emergiu na mesma b
 
 É comum ouvir vozes apontando uma "falsidade, fragilidade e marqueteirismo" desses _trends_ da Internet. Apesar de Ezra Marcus viver em uma caverna na qual não existem e-girls e e-boys fazendo imagens com golfinhos e anjos renascentistas no PicsArt¹, é impossível não se pegar pensando em como nossas músicas aestéticas são perfeitas para o algoritmo do Youtube.
 
-Ou para fazer memes.
+Todo mundo já esbarrou alguma vez na ["lofi hip hop radio - beats to relax/study to"](https://www.youtube.com/watch?v=hHW1oY26kxQ).
 
 [colocar aqui imagem do lofi hip hop radio - beats to relax/study to )]
 
