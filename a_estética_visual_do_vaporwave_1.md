@@ -14,9 +14,9 @@ Seu nascimento foi quase seu aborto - a estética audiovisual emergiu na mesma b
 
 É comum ouvir vozes apontando uma "falsidade, fragilidade e marqueteirismo" desses _trends_ da Internet. Apesar de Ezra Marcus viver em uma caverna na qual não existem e-girls e e-boys fazendo imagens com golfinhos e anjos renascentistas no PicsArt¹, é impossível não se pegar pensando em como nossas músicas aestéticas são perfeitas para o algoritmo do Youtube.
 
-Todo mundo já esbarrou alguma vez na ["lofi hip hop radio - beats to relax/study to"](https://www.youtube.com/watch?v=hHW1oY26kxQ).
+Afinal, todo mundo já esbarrou alguma vez na ["lofi hip hop radio - beats to relax/study to"](https://www.youtube.com/watch?v=hHW1oY26kxQ).
 
-[colocar aqui imagem do lofi hip hop radio - beats to relax/study to )]
+![lofi hip hop radio - beats to relax/study to](/guiasetutoriais/esteticavisualvaporwave/1/a_estética_visual_do_vaporwave_1_assets/2.png)
 
 Há sim uma indefinição desses "webmovimentos artísticos", e uma óbvia capitalização destes. Inventar categorias de gêneros e estilos que não existem, aliás, é prática recorrente na crítica musical. Mas nunca deve-se ignorar a força que _dar nome a algo_ tem na própria _produção desse algo_. Os movimentos artísticos de vanguarda do século XX existiram na linha tênue entre a criação artística propriamente dita e a confecção de manifestos e declarações sobre qual era o estilo/movimento por trás das obras artísticas, e como argumenta Alain Badiou, se descrever um estilo/gênero/movimento é traí-lo de alguma forma - tanto pela infidelidade da linguagem aos seus objetos, como pelo risco de prender a criatividade artística em uma caixinha - ao mesmo tempo sente-se a necessidade de nomear o movimento artístico para que ele efetivamente _exista no discurso_, nas nossas conversas, em nossos posts e comentários de redes sociais, nos meios de comunicação... E no imaginário do artista. Se um conjunto de autores são classificados como pertencentes a um estilo X sem verdadeiramente se encaixarem nele, observadores externos podem acreditar na existência de X ao ponto de efetivamente _materializar o estilo_.
 
