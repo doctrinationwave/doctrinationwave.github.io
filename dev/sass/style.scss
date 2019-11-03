@@ -1,0 +1,346 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,700,700i|Roboto+Mono:300,300i');
+
+$black: #111111;
+$white: #e9e9e9;
+$gray: #707070;
+$accent: rgb(215, 140, 74);
+
+$reading-font: 'HKGroteskRegular';
+$display-font: 'Roboto Mono';
+
+$container-width: 1450px;
+
+// Overrides & fixes
+html {
+  background-color: $black;
+}
+.container {
+  max-width: $container-width;
+}
+
+sup {
+  font-size: 0.9rem;
+  vertical-align: super;
+  line-height: 0;
+  font-weight: 700;
+}
+
+h1 {
+  sup {
+    font-size: 1.5rem;
+    vertical-align: super;
+    line-height: 0;
+    font-weight: 700;
+  }
+}
+
+strong {
+  font-weight: 700;
+  color: $white;
+}
+
+.highlighter-rouge {
+  font-family: $display-font;
+  color: $white;
+  background: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  height: 1px;
+}
+ul {
+  margin-bottom: 0.25rem;
+}
+li {
+  margin-bottom: 0.25rem;
+}
+
+// Generic
+  body {
+    background-color: $black !important;
+    color: $white !important;
+    font-family: $reading-font, sans-serif;
+    font-size: 21px;
+    line-height: 31px;
+    text-rendering: optimizeLegibility !important;
+  }
+
+  @media only screen and (max-width: 769px) {
+    body {
+      font-size: 18px;
+      line-height: 26px;
+    }
+  }
+
+a {
+  color: $white !important;
+  font-family: $reading-font, sans-serif;
+  font-weight: 700;
+}
+
+a:hover {
+  color: $accent !important;
+}
+
+section {
+  padding: 2rem 0 !important;
+  min-height: 80vh;
+}
+@media only screen and (max-width: 769px) {
+  section {
+    padding: 2rem 0rem !important;
+  }
+}
+
+// Header
+.navbar {
+  background-color: $black !important;
+  color: $white !important;
+  font-size: 17px;
+  padding-bottom: 3rem;
+  height: 10vh;
+  display: flex;
+  flex-wrap: wrap;
+  a {
+    font-weight: 400;
+  }
+}
+@media only screen and (max-width: 769px) {
+  .navbar {
+    height: 5vh;
+  }
+}
+.navbar-item:hover {
+  background: none !important;
+  color: $accent !important;
+}
+.navbar-brand {
+  a {
+    font-weight: 700 !important;
+  }
+}
+
+@media only screen and (max-width: 769px) {
+  #navMenu {
+    width: 100%;
+    padding: 0;
+    background-color: $black !important;
+    height: 100vh;
+    .navbar-end {
+      z-index: 99;
+      color: $white !important;
+    }
+  }
+}
+
+//Home
+.home-tiles {
+  width: $container-width;
+  margin-left: -51% !important;
+  .home-quote {
+    p {
+      font-size: 1.4rem;
+      margin-top: -0.75rem;
+    }
+  }
+  @media only screen and (max-width: 769px) {
+    .home-quote {
+      margin-bottom: 2rem;
+      p {
+        font-size: 1.1rem;;
+        line-height: 1.75rem;
+      }
+    }
+  }
+
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+    padding-right: 2rem;
+  }
+  h2 {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+    padding-right: 2rem;
+  }
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+
+  blockquote {
+    font-family: $display-font;
+    font-style: italic;
+    padding-right: 4rem;
+    border-left: none !important;
+    padding-left: 0 !important;
+     p {
+       margin-top: 1rem !important;
+       font-size: 1.75rem !important;
+       line-height: 2.6rem !important;
+     }
+  }
+  @media only screen and (max-width: 769px) {
+    blockquote {
+      padding-right: 0;
+      p {
+        font-size: 1.25rem !important;
+        line-height: 2.2rem !important;
+      }
+    }
+  }
+}
+@media only screen and (max-width: 769px) {
+  .home-tiles {
+    width: 100%;
+    margin-left: 0 !important;
+    padding: 0;
+  }
+}
+
+// Post
+h1 {
+  font-family: $display-font, monospace;
+  font-style: italic;
+  font-size: 3rem;
+  line-height: 4rem;
+  text-align: center;
+  margin-bottom: 4rem;
+  text-decoration: underline;
+  width: 100vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+h2 {
+  font-size: 1rem;
+  font-family: $reading-font, sans-serif;
+  color: $gray;
+  text-transform: lowercase;
+}
+.text-content {
+  // position: relative;
+  // overflow: hidden;
+  a {
+    text-decoration: underline;
+  }
+  p {
+    margin: 1em 0;
+  }
+  img {
+    // width: $container-width;
+    max-width: $container-width;
+    // margin-left: -368px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 0.5rem;
+  }
+  @media only screen and (max-width: 769px) {
+    img {
+      width: 100%;
+    }
+  }
+  blockquote {
+    font-family: $display-font;
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+    border-left: 4px solid $accent;
+    padding-left: 1rem;
+    a {
+      font-family: $display-font !important;
+    }
+  }
+}
+.text-content img + p {
+  background-color: red !important;
+}
+
+@media only screen and (max-width: 769px) {
+  .text-content {
+    padding: 0 1rem;
+  }
+}
+
+/* Hover tooltips */
+.tooltip {
+  // margin-left: 50px;
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  // min-width: 40vw;
+  // max-width: 80vw;
+  background-color: $white;
+  color: $black;
+  border: 1px solid $black;
+  text-align: left;
+  padding: 0.25rem;
+  font-size: 0.75rem;
+  line-height: 1.1rem;
+  font-family: $reading-font;
+  font-weight: 400;
+
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 99;
+  top: 110%;
+  left: 25%;
+  margin-left: -10vw;
+  pointer-events: none;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+.footnote {
+  color: $accent !important;
+  text-decoration: none !important;
+}
+.reversefootnote {
+  color: $accent !important;
+}
+
+
+// Footer
+.footer {
+  background-color: $black !important;
+  color: $white !important;
+  font-size: 17px;
+  padding: 2.5rem 0;
+  height: 10vh;
+  .container {
+    display: -webkit-flex; /* Safari */
+    -webkit-justify-content: center; /* Safari 6.1+ */
+    display: flex;
+    justify-content: space-between;
+    background-color: $black;
+  }
+  a {
+    font-weight: 400;
+  }
+}
+
+@media only screen and (max-width: 769px) {
+  .footer {
+    height: 5vh;
+    margin-left: 1rem;
+    background-color: $black !important;
+    .container {
+      display: flex;
+      align-items: left;
+      justify-content: center;
+      flex-direction: column;
+      text-align: left;
+    }
+    a {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
