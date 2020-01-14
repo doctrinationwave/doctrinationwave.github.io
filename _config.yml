@@ -10,3 +10,4 @@ plugins:
   - jemoji
   - jekyll-include-cache
 exclude: [dev]
+google_analytics: UA-156276616-1
