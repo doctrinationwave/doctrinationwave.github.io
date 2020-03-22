@@ -3,7 +3,9 @@ youtubeId: dH6rsMttTDg
 ---
 
 # MANIFESTO WEBDOUTRINATÓRIO
-![Infecção cultural](/editorial/manifesto_assets/Capa - Para corpo do texto.png)
+
+![Infecção cultural](editorial/manifesto_assets/capamanifesto.png)
+
 # _COMO FAZER ARTE COMUNISTA PARA O SÉCULO XXI_
 
 **O impossível é a nossa única opção**
@@ -93,10 +95,10 @@ Algumas diretrizes para esse tipo de estratégia:
 
 
 
-*   Priorize _fandoms_ e interesses que já sejam seus, ou memes/modas com as quais você já esteja bem familiarizade, para construir artes/memes mais espontâneos e evitar produções forçadas e toscas.
-*   Evite paródias que apenas critiquem/tirem sarro do conteúdo original e não demonstrem suficientemente que há um posicionamento comunista por trás da sua produção. O ato de satirizar por satirizar produz memes facilmente cooptáveis, e é o modo típico no capitalismo tardio de fazer “rebelião vazia” - demonstrar que há algo de errado nas coisas, mas não oferecer alternativa.
-*   Utilize o alcance obtido por essa estratégia para popularizar produções contraculturais e independentes de esquerda radical. Dessa maneira, coopta-se parte da força material da indústria cultural e evita-se que a estratégia de infecção cultural torne-se mais outra forma de dependência nossa em relação aos meios de comunicação burgueses.
-*   A seriedade do meme/arte literalmente deve depender do que se quer passar, e do público-alvo a ser atingido. O que importa é ser efetivo e ter alcance.
+- Priorize _fandoms_ e interesses que já sejam seus, ou memes/modas com as quais você já esteja bem familiarizade, para construir artes/memes mais espontâneos e evitar produções forçadas e toscas.
+- Evite paródias que apenas critiquem/tirem sarro do conteúdo original e não demonstrem suficientemente que há um posicionamento comunista por trás da sua produção. O ato de satirizar por satirizar produz memes facilmente cooptáveis, e é o modo típico no capitalismo tardio de fazer “rebelião vazia” - demonstrar que há algo de errado nas coisas, mas não oferecer alternativa.
+- Utilize o alcance obtido por essa estratégia para popularizar produções contraculturais e independentes de esquerda radical. Dessa maneira, coopta-se parte da força material da indústria cultural e evita-se que a estratégia de infecção cultural torne-se mais outra forma de dependência nossa em relação aos meios de comunicação burgueses.
+- A seriedade do meme/arte literalmente deve depender do que se quer passar, e do público-alvo a ser atingido. O que importa é ser efetivo e ter alcance.
 
 **Inconclusão: nada merece ser fixo**
 
@@ -104,4 +106,4 @@ O terceiro pilar do que ponho em prática nas minhas produções artísticas, e 
 
 Nenhuma versão deste manifesto é conclusiva, e ele sofrerá alterações frente ao que for aprendido em nosso projeto.
 
-_Esta é a versão 1.0 do Manifesto Webdoutrinatório. Você pode ter acesso a edições prévias do texto acessando seu Histórico em nosso Repositório do GitHub._
+_Esta é a versão 1.0 do Manifesto Webdoutrinatório. Você pode ter acesso a edições prévias do texto acessando seu [Histórico](https://github.com/doctrinationwave/doctrinationwave.github.io/commits/master/editorial/manifesto.md) em nosso [Repositório do GitHub](https://github.com/doctrinationwave/doctrinationwave.github.io)._
