@@ -1,3 +1,7 @@
+---
+youtubeId: dH6rsMttTDg
+---
+
 # MANIFESTO WEBDOUTRINATÓRIO
 
 # _COMO FAZER ARTE COMUNISTA PARA O SÉCULO XXI_
@@ -55,7 +59,7 @@ Evita-se também um comunismo de academia e de partido, que a ninguém interessa
 
 Ou entre a Revolução Bolchevique e essa lapa de bumbum aí.
 
-[https://www.youtube.com/watch?v=dH6rsMttTDg](https://www.youtube.com/watch?v=dH6rsMttTDg)
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Fundamentalmente, é nosso papel rejeitar falsas cisões e encontrar pontos de comunicação entre elementos diferentes. Sabemos muito bem, por exemplo, que teoria e prática são inseparáveis. Uma boa base científica e filosófica impede ações inúteis e prejudiciais; construtos teóricos são inefetivos e vazios se não fundamentam práticas. São vias como a do modernismo pulp que permitem destruir as atitudes-irmãs e apenas aparentemente opostas do academicismo e do pragmatismo vulgar.
 
