@@ -2,11 +2,9 @@
 youtubeId: dH6rsMttTDg
 ---
 
-# MANIFESTO WEBDOUTRINATÓRIO
+# MANIFESTO WEBDOUTRINATÓRIO - _COMO FAZER ARTE COMUNISTA PARA O SÉCULO XXI_
 
 ![Infecção cultural](/editorial/manifesto_assets/capamanifesto.png)
-
-# _COMO FAZER ARTE COMUNISTA PARA O SÉCULO XXI_
 
 **O impossível é a nossa única opção**
 
