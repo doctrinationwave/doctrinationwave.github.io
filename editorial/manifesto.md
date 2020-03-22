@@ -42,8 +42,8 @@ Agora já pode sair por aí e ser aquele marxista chato que usa a palavra “dia
 
 Nenhum conceito filosófico, científico ou político é “elevado demais”. Qualquer um pode entender qualquer coisa, desde que:
 
-- O tema lhe interesse.
-- Os recursos necessários para entender o tema lhe sejam ofertados.
+■ O tema lhe interesse.
+■ Os recursos necessários para entender o tema lhe sejam ofertados.
 
 Sim, sua vovó fazendeira de 80 anos pode entender mais-valia, dialética, teoria queer e a evolução das espécies. Basta que de alguma forma o interesse por esses temas surja, e que ela receba os recursos adequados (o apoio de um tutor, os livros e textos, o tempo livre) para aprendê-los.
 
@@ -93,12 +93,10 @@ Infectar a cultura pop é, no fim das contas, uma ferramenta barata, eficiente e
 
 Algumas diretrizes para esse tipo de estratégia:
 
-
-
-- Priorize _fandoms_ e interesses que já sejam seus, ou memes/modas com as quais você já esteja bem familiarizade, para construir artes/memes mais espontâneos e evitar produções forçadas e toscas.
-- Evite paródias que apenas critiquem/tirem sarro do conteúdo original e não demonstrem suficientemente que há um posicionamento comunista por trás da sua produção. O ato de satirizar por satirizar produz memes facilmente cooptáveis, e é o modo típico no capitalismo tardio de fazer “rebelião vazia” - demonstrar que há algo de errado nas coisas, mas não oferecer alternativa.
-- Utilize o alcance obtido por essa estratégia para popularizar produções contraculturais e independentes de esquerda radical. Dessa maneira, coopta-se parte da força material da indústria cultural e evita-se que a estratégia de infecção cultural torne-se mais outra forma de dependência nossa em relação aos meios de comunicação burgueses.
-- A seriedade do meme/arte literalmente deve depender do que se quer passar, e do público-alvo a ser atingido. O que importa é ser efetivo e ter alcance.
+■ Priorize _fandoms_ e interesses que já sejam seus, ou memes/modas com as quais você já esteja bem familiarizade, para construir artes/memes mais espontâneos e evitar produções forçadas e toscas.
+■ Evite paródias que apenas critiquem/tirem sarro do conteúdo original e não demonstrem suficientemente que há um posicionamento comunista por trás da sua produção. O ato de satirizar por satirizar produz memes facilmente cooptáveis, e é o modo típico no capitalismo tardio de fazer “rebelião vazia” - demonstrar que há algo de errado nas coisas, mas não oferecer alternativa.
+■ Utilize o alcance obtido por essa estratégia para popularizar produções contraculturais e independentes de esquerda radical. Dessa maneira, coopta-se parte da força material da indústria cultural e evita-se que a estratégia de infecção cultural torne-se mais outra forma de dependência nossa em relação aos meios de comunicação burgueses.
+■ A seriedade do meme/arte literalmente deve depender do que se quer passar, e do público-alvo a ser atingido. O que importa é ser efetivo e ter alcance.
 
 **Inconclusão: nada merece ser fixo**
 
