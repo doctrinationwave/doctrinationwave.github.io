@@ -3,7 +3,7 @@ youtubeId: dH6rsMttTDg
 ---
 
 # MANIFESTO WEBDOUTRINATÓRIO
-
+![Infecção cultural](/editorial/manifesto_assets/Capa - Para corpo do texto.png)
 # _COMO FAZER ARTE COMUNISTA PARA O SÉCULO XXI_
 
 **O impossível é a nossa única opção**
