@@ -6,7 +6,7 @@ youtubeId: dH6rsMttTDg
 
 # _COMO FAZER ARTE COMUNISTA PARA O SÉCULO XXI_
 
-**| O impossível é a nossa única opção**
+**O impossível é a nossa única opção**
 
 Tanto na política como na arte, fomos dominados por uma força desmobilizadora. Ela é inteligente e perversa, pois nos engana usando a própria verdade. Seus tentáculos são muitos: o realismo capitalista, o pragmatismo gerencialista neoliberal (e seu complemento sombrio, a extrema-direita populista) a busca pelo retrô e pela nostalgia nas artes, a mesmice paradoxalmente instável da indústria cultural, a pandemia de depressão, a condenação dos fanatismos e das paixões (e a reapropriação dessas forças pela direita).
 
@@ -28,7 +28,7 @@ Como fazer arte comunista para o século XXI? Como fazer outras pessoas pensarem
 
 Quero ajudar a responder essas perguntas. Este manifesto sintetiza as práticas artísticas da Doctrinationwave - e como eu, sua autora, infelizmente não sou tão modesta, creio que essa pequena exposição poderá ter utilidade para outras pessoas trabalhando com arte e propaganda comunista.
 
-**| Modernismo pulp, ou aprendendo Hegel com letra de bregafunk**
+**Modernismo pulp, ou aprendendo Hegel com letra de bregafunk**
 
 Comecemos esta seção pondo-a em prática. Quer entender um pouquinho de Hegel? Um dos aspectos principais das enrolações desse alemão esquisito é sua percepção de um fenômeno comum em nossas vidas e em nosso pensamento.
 
@@ -67,7 +67,7 @@ Escapa-se também da mesmice artística e cultural: não ficamos presos a gêner
 
 Ou, mais claramente: comunismo na arte.
 
-**| Contra a indústria cultural, infecção cultural**
+**Contra a indústria cultural, infecção cultural**
 
 Pode-se resumir o que virá a seguir em duas frases: a burguesia nos venderá a própria corda com a qual a enforcaremos, e a trilha sonora que tocará nos nossos celulares nesse momento fatídico.
 
